@@ -37,7 +37,7 @@ Oder schreib mir direkt: [wuestefelddennis@gmail.com](mailto:wuestefelddennis@gm
 
 Stille sammelt keine persönlichen Daten. Alle Einträge bleiben ausschließlich auf deinem Gerät.
 
-[Datenschutzerklärung](https://github.com/dennislehmann/stille-app/blob/main/PRIVACY.md)
+[Datenschutzerklärung](https://github.com/YxngDjin/Stille-App/blob/main/PRIVACY.md)
 
 ---
 
